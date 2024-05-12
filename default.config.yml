@@ -61,6 +61,8 @@ homebrew_installed_packages:
   - wget
   - zsh-history-substring-search
   - nightlight
+  - zsh-autosuggestions
+  - zsh-syntax-highlighting
 
 homebrew_taps:
   - gabe565/tap
